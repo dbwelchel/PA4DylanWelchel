@@ -1,0 +1,1 @@
+SELECT * FROM muoflfscuq8psk40.exercise;
